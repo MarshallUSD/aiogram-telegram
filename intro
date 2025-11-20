@@ -1,0 +1,12 @@
+aiogram --> Telegram bot yaratish uchun asinxron framework
+Dispatcher--> Botni boshqaruvchi "markaz", handlerini ro'yxatini o'tkazadi.
+types= Telegram xabarlar turlari ( Message, CallbackQuery, hokazo )
+token_API=kodda telegram apini saqlash uchun fayl
+Bot --> Telegram bot obyektini yaratadi.
+
+bot = Bot(token=TOKEN)
+
+bu 
+
+
+
